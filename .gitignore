@@ -1,4 +1,4 @@
-# no log files
+# no log files in the commits
 *.log
 
 # I want track error log files
